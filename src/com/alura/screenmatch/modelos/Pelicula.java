@@ -1,6 +1,6 @@
-package com.aluracursos.screenmacth.modelos;
+package com.alura.screenmatch.modelos;
 
-import com.aluracursos.screenmacth.calculos.Clasificable;
+import com.alura.screenmatch.calculos.Clasificable;
 
 public class Pelicula extends Titulo implements Clasificable {
     private String director;
